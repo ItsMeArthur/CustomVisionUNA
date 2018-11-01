@@ -8,6 +8,10 @@
 
 https://docs.microsoft.com/pt-br/azure/cognitive-services/custom-vision-service/python-tutorial
 
+## Link Vinho vs Agua
+
+https://stdntpartners-my.sharepoint.com/:u:/g/personal/itsmearthur_studentpartner_com/ET1OGXqYKgVJjXNqxCWQJBYBZ5mhyK0CbfIy-jJMhjKqHw?e=OVlEXd
+
 ## Preço
 https://www.microsoft.com/cognitive-services/en-us/pricing 
 
