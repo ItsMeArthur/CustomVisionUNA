@@ -4,6 +4,10 @@
 - PIP
 - Conta no Custom Vision Service
 
+## Criando o Client em Python
+
+https://docs.microsoft.com/pt-br/azure/cognitive-services/custom-vision-service/csharp-tutorial
+
 ## Preço
 https://www.microsoft.com/cognitive-services/en-us/pricing 
 
